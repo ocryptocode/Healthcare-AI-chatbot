@@ -51,5 +51,42 @@ https://github.com/ashu-devx
     ```
 
 ## Project Structure
+- app/
+  - app.py         # Entry point for the application
+  - config.py      # Configuration settings
+  - requirements.txt  # List of Python packages
+
+- chatbot/
+  - __init__.py    # Initialization of the chatbot module
+  - chatbot.py     # Core logic for the chatbot
+  - models.py      # Data models (e.g., user history)
+  - utilities.py   # Helper functions
+
+- data/
+  - intents.json   # JSON file for intents and responses
+  - nlp/
+    - preprocessing.py  # Text preprocessing functions
+    - model/        # Directory for NLP models (optional)
+    - embeddings/   # Pre-trained embeddings (optional)
+
+- templates/
+  - index.html     # HTML template for chatbot interface (if applicable)
+
+- static/
+  - css/
+    - styles.css   # CSS for styling
+  - js/
+    - script.js    # JavaScript for client-side interactions
+
+- tests/
+  # Unit tests for chatbot logic
+
+- docs/
+  # Documentation files
+
+- Procfile        # Heroku deployment configuration
+- Dockerfile      # Docker configuration (optional)
+- deployment_scripts/
+  # Scripts for deployment tasks (optional)
 
 
