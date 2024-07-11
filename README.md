@@ -9,6 +9,8 @@ This project is a bot that has multiple functionalities and a concise algorithm.
 This project is a simple healthcare chatbot built using Python. The chatbot uses natural language processing (NLP) to understand user queries, identify intents, extract relevant entities, and generate appropriate responses.
 It aims to build an interactive chatbot that can assist users with healthcare-related inquiries.
 
+it is all presented to you by me and a fellow programmer https://github.com/ashu-devx
+
 ## Prerequisites
 
 - **Python 3.x**: Make sure Python is installed on your system.
