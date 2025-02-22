@@ -1,6 +1,6 @@
 ## Healthcare-AI-chatbot
 
-The healthcare AI chatbot is a project of absolute perfection , being in the same gen as educate.
+The healthcare AI chatbot is a project of absolute perfection , being in the same gen as https://github.com/educate.
 
 The field of medicals and healthcare is a field that uses a lot of data, so the use of algorithms and AI is pretty simple and logical.
 
