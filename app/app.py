@@ -2,7 +2,12 @@
 import spacy
 import torch
 
+def chatbot_function():
 
+	
+   
+
+	
 # Define functions for natural language understanding
 def preprocess_input(user_input):
 	# Implement text preprocessing steps (e.g., tokenization, lowercasing)
